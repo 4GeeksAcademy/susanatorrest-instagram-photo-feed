@@ -1,0 +1,92 @@
+body{
+    background:gainsboro;
+    margin: 0;
+}
+div.body{
+    margin-bottom: 50px;
+}
+header{
+    background:white;
+}
+header h1{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.title{
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+div.headerpost1{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+div.headerpost2{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+div.headerpost3{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+div.headerpost4{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+div.post1{
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+div.post1 img{
+    width: 100%;
+}
+div.post2 img{
+    width: 100%;
+}
+div.post3 img{
+    width: 100%;
+}
+div.post4 img{
+    width: 100%;
+}
+div.post2{
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+div.post3{
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+div.post4{
+    background: white;
+    width: 600px;
+    margin: auto;
+    margin-top: 50px;
+}
+p{
+    font-family: arial;
+    padding: 10px;
+    margin: 0;
+}
+h2{
+    padding: 10px;
+    margin: 0;
+    width: 85%;
+}
+span{
+    padding: 10px;
+    margin: 0;
+    width: 15%;
+    text-align: right;
+    color: gray;
+}
